@@ -1,4 +1,3 @@
-# Akhtar-Portfolio
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -8,10 +7,9 @@
         body {
             font-family: Arial, sans-serif;
             text-align: center;
-            margin: 20px;
         }
         iframe {
-            border: 2px solid #ddd;
+            border: none;
             width: 80%;
             height: 800px;
         }
@@ -21,6 +19,7 @@
     <h1>Architectural-Portfolio</h1>
     <p>This repository hosts my architectural portfolio, featuring a collection of my professional projects, design concepts, and personal background as an architectural engineer. The portfolio showcases my skills, creativity, and experience in architectural design and project management.</p>
     <h2>My Architectural Portfolio</h2>
-    <iframe src="https://raw.githubusercontent.com/akhtar-ali633/Architectural-Portfolio/main/Akhtar%20Ali%20Portfolio.pdf" allowfullscreen></iframe>
+    <iframe src="Akhtar%20Ali%20Portfolio.pdf" allowfullscreen></iframe>
+    <p>If the PDF does not load, <a href="Akhtar%20Ali%20Portfolio.pdf" target="_blank">click here to download the PDF</a>.</p>
 </body>
 </html>
